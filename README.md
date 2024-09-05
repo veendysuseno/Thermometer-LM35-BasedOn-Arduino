@@ -69,5 +69,6 @@ The LM35 is a linear analog temperature sensor whose output voltage varies linea
 
 - This project demonstrates a simple way to create a digital thermometer using an LM35 sensor and Arduino Uno. It provides real-time temperature monitoring with an easy-to-read display.
 
-- In this project the voltage output from the LM35 is used as input to the Arduino and the value is converted into a value in temperature units. After conversion, the results of the conversion are displayed on a 16×2 LCD screen.
-"# Thermometer-LM35-BasedOn-Arduino" 
+- In this project the voltage output from the LM35 is used as input to the Arduino and the value is converted into a value in temperature units. After conversion, the results of the conversion are displayed on a 16×2 LCD screen.<br/>
+
+"# Thermometer-LM35-BasedOn-Arduino"
